@@ -7,7 +7,7 @@ Ce projet implémente un système basé sur l’intelligence artificielle permet
 Il s’appuie sur **MTCNN** pour la détection des visages et sur des **CNN spécialisés** pour la classification.  
 
 📄 Plus d’informations sont disponibles dans l’article associé :  
-👉 [Lire l’article (PDF)](./output_47.pdf)
+👉 [Lire l’article (PDF)]()
 
 ---
 
