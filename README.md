@@ -49,13 +49,3 @@ python detect.py --video chemin/vers/video.mp4
 
 ---
 
-## 📜 Licence
-
-Projet distribué sous licence **MIT**.
-
-```
-
----
-
-Veux-tu que je garde aussi une **section schéma d’architecture** (visuel ou mermaid) ou tu préfères laisser ce README très minimaliste comme ça ?
-```
