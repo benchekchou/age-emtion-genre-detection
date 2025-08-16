@@ -1,6 +1,5 @@
 
 
-````markdown
 # 🎭 Age, Gender & Emotion Detection
 
 ## 📖 Aperçu
