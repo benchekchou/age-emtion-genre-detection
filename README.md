@@ -40,11 +40,12 @@ pip install -r requirements.txt
 ## ▶️ Utilisation
 
 ```bash
-# Pour une image
-python detect.py --image chemin/vers/image.jpg
+pip install streamlit
+cd age-emtion-genre-detection
+streamlit run appp.py
 
-# Pour une vidéo
-python detect.py --video chemin/vers/video.mp4
+
+
 ```
 
 ---
